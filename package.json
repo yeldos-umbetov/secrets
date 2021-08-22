@@ -7,8 +7,9 @@
     "body-parser": "^1.18.3",
     "dotenv": "^6.2.0",
     "ejs": "^2.6.1",
+    "encryption": "0.0.1",
     "express": "^4.16.4",
-    "mongoose": "^5.4.5",
+    "mongoose": "^5.13.7",
     "mongoose-encryption": "^2.0.1",
     "node-enigma": "^1.2.1"
   },
